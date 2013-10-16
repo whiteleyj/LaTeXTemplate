@@ -1,0 +1,5 @@
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate\bin\Debug\LaTeXTemplate.dll
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate\bin\Debug\LaTeXTemplate.pdb
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate\obj\Debug\LaTeXTemplate.csprojResolveAssemblyReference.cache
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate\obj\Debug\LaTeXTemplate.dll
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate\obj\Debug\LaTeXTemplate.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaTeXTemplate", "LaTeXTemplate\LaTeXTemplate.csproj", "{A742A059-F4CE-4C1B-A0AA-00E3AB8448BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaTeXTemplate.Tests", "LaTeXTemplate.Tests\LaTeXTemplate.Tests.csproj", "{9C8D29E7-E80E-46ED-8CCE-A24CE8BEEC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A742A059-F4CE-4C1B-A0AA-00E3AB8448BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A742A059-F4CE-4C1B-A0AA-00E3AB8448BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A742A059-F4CE-4C1B-A0AA-00E3AB8448BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A742A059-F4CE-4C1B-A0AA-00E3AB8448BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8D29E7-E80E-46ED-8CCE-A24CE8BEEC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8D29E7-E80E-46ED-8CCE-A24CE8BEEC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8D29E7-E80E-46ED-8CCE-A24CE8BEEC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8D29E7-E80E-46ED-8CCE-A24CE8BEEC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

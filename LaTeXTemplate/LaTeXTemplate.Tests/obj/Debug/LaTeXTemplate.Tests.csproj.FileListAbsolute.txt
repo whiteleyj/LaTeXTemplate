@@ -1,0 +1,7 @@
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate.Tests\bin\Debug\LaTeXTemplate.Tests.dll
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate.Tests\bin\Debug\LaTeXTemplate.Tests.pdb
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate.Tests\bin\Debug\LaTeXTemplate.dll
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate.Tests\bin\Debug\LaTeXTemplate.pdb
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate.Tests\obj\Debug\LaTeXTemplate.Tests.csprojResolveAssemblyReference.cache
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate.Tests\obj\Debug\LaTeXTemplate.Tests.dll
+G:\projects\LaTeXTemplate\LaTeXTemplate\LaTeXTemplate.Tests\obj\Debug\LaTeXTemplate.Tests.pdb
